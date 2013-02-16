@@ -1,0 +1,13 @@
+{
+  "name": "intervarl",
+  "repo": "marcelklehr/intervarl",
+  "description": "A variable interval. The timeout period can be changed dynamically.",
+  "version": "0.0.1",
+  "keywords": ["setInterval","interval", "timer", "dynamic", "variable", "adjustable"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,10 @@
+{ "name" : "intervarl",
+  "description": "A variable interval. The timeout period can be changed dynamically.",
+  "keywords" : ["setInterval","interval", "timer", "dynamic", "variable", "adjustable"],
+  "homepage": "http://github.com/marcelklehr/intervarl",
+  "repository" : { "type" : "git", "url" : "http://github.com/marcelklehr/intervarl.git" },
+  "author": "Marcel Klehr <mklehr@gmx.net>",
+  "bugs": { "url" : "http://github.com/marcelklehr/intervarl/issues" },
+  "engines": { "node": ">= 0.6.0" },
+  "version": "0.1.0",
+}
