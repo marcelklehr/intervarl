@@ -13,8 +13,8 @@ var setInterval = require('intervarl').setInterval
 
 var interval = setInterval(function() {
   console.log('ShAZzAmM')
-  if(interval.period < 20000) return interval.period++1000
-  interval.period--1000
+  if(interval.period < 20000) return interval.period = interval.period+1000
+  interval.period = interval.period-1000
 }, 0)
 
 setTimeout(function() {
