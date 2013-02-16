@@ -6,5 +6,5 @@
   "author": "Marcel Klehr <mklehr@gmx.net>",
   "bugs": { "url" : "http://github.com/marcelklehr/intervarl/issues" },
   "engines": { "node": ">= 0.6.0" },
-  "version": "0.1.0",
+  "version": "0.1.0"
 }
